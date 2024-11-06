@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.ifeprosjekt.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Bruker1\\Downloads\\VR-based-Robot-Teleoperation-main\\VR-based-Robot-Teleoperation-main\\unity\\IFE_VR_UNITY\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "IFE Prosjekt [Testing]"
+        }
+      }
+    }
+  ]
+}
