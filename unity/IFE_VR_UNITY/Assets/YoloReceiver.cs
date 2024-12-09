@@ -2,7 +2,7 @@ using System.Net.Sockets;
 using System.Text;
 using UnityEngine;
 
-public class YoloReceiver : MonoBehaviour
+public class YoloReceiver1 : MonoBehaviour
 {
     private TcpClient client;
     private NetworkStream stream;
@@ -27,7 +27,7 @@ public class YoloReceiver : MonoBehaviour
             Debug.Log($"Mottatt data: {json}");
 
             // Eventuelt: Pass JSON-data til en overlay-controller
-            FindObjectOfType<OverlayController>()?.DrawBoxes(json);
+            // FindObjectOfType<OverlayController>()?.DrawBoxes(json);
         }
     }
 
