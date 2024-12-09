@@ -1,21 +1,22 @@
 # VR-based-Robot-Teleoperation!
 Github repo for teleoperated robot arm. Currently, no documentation for the code exists
 ## Hardware
-- Raspberry pi 4
 - UR3e & UR16e
-- Intel Realsense D435i
-- ZED 2
-- 3 stepper motors
-- Custom Gimbal
-- HTC VIVE PRO 2 (We are currently testing on 1)
+- Meta Quest 3
 - 2 VR controllers
-- 2 VR base stations
+- StereoLabs ZED 2 Stereoscopic Camera
+- ~~Intel Realsense D435i~~
+- ~~3 stepper motors~~
+- ~~Custom Gimbal~~
+- ~~HTC VIVE PRO 2 (We are currently testing on 1)~~
+- ~~Raspberry pi 4~~
+- ~~2 VR base stations~~
 ## Plugins/Libraries for Unity/PC (Unity version 2021.3.18f1)
 **Do not edit Unity without using version 2021.3.18**
 - SteamVR
-- Intel Realsense Unity
 - ZED SDK
 - UR_RTDE (use Python 3.10)
+- ~~Intel Realsense Unity~~
 ## Libraries for Raspberry pi
 Nothing to add for now
 ## Robot offline
