@@ -2,7 +2,7 @@ import cv2
 from ultralytics import YOLO
 
 #velg hvilken yolomodell du ønsker å bruke
-model = YOLO('yolo11b.pt')
+model = YOLO('yolo11n.pt')
 
 cap = cv2.VideoCapture(0)
 
