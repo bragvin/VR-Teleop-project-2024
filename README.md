@@ -1,5 +1,5 @@
 # VR-based-Robot-Teleoperation!
-Github repo for teleoperated robot arm. Currently, no documentation for the code exists
+Github repo for teleoperated robot arm.
 ## Hardware
 - UR3e & UR16e
 - Meta Quest 3
